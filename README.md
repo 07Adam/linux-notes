@@ -22,5 +22,15 @@ I write down commands as I learn them and explain each one in my own words.
 - The `.c` file, the map `.kw` and the `Makefile` must be in the same folder.
 - Then I compile and run it with `make name && ./name`.
 
+## 🌿 Git basics
+| Command | What it does |
+|---|---|
+| `git --version` | Shows which version of git is installed |
+| `git clone link` | Downloads a repository from GitHub to my computer |
+| `git status` | Shows what I changed |
+| `git add file` | Prepares a file to be saved |
+| `git commit -m "message"` | Saves the changes with a short description |
+| `git push` | Uploads my saved changes to GitHub |
+
 ## 📝 Learning next
 I'll add new commands here as I learn them.
